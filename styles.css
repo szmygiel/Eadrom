@@ -39,6 +39,7 @@ body {
 color: white;
 font-weight: 500;
 }
+
 .nav-link {
   color: black;
   text-align:center;
@@ -79,7 +80,7 @@ background-color: white;
   background-size: cover;
   background-position: 50% 50%;
   margin: auto;
-  background-image: url(/eadorom-images/josh-boot-2x19-mRQgX8-unsplash.jpg);
+  background-image: url(/eadorom-images/pic6.jpg);
   background-repeat: no-repeat;
   /* background: #fffff4  no-repeat center; */
    /* border: 2px dashed #2a2a2a;  
